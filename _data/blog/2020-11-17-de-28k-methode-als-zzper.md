@@ -77,7 +77,7 @@ De sweetspot ligt voor een ZZP-er zo rond de €28.000. Dit is het maximale bedr
 
 ![ZZP Berekenhet](/assets/28k_berekenhet.png)
 
-In bovenstaande voorbeelden wordt vooral gestuurd op de mogelijkheid om meer beschikbare tijd te creëren door zo min mogelijk of niet in te leveren op je netto resultaat. Om hier je voordeel uit te kunnen halen zou het ideaal zijn wanneer al je uitgaven op jaarbasis met een bedrag van ca. €27.000 gedekt kunnen worden of dat een gedeelte **aftrekbare kosten** zijn die je winst of bruto inkomen drukken. Meer hierover te lezen in **fixed, future & fun**.
+In bovenstaande voorbeelden wordt vooral gestuurd op de mogelijkheid om meer beschikbare tijd te creëren door zo min mogelijk of niet in te leveren op je netto resultaat. Om hier je voordeel uit te kunnen halen zou het ideaal zijn wanneer al je uitgaven op jaarbasis met een bedrag van ca. €27.000 gedekt kunnen worden of dat een gedeelte **aftrekbare kosten** zijn die je winst of bruto inkomen drukken. Meer hierover te lezen in [Fixed, Future & Fun](/fixed-future-fun).
 
 Mocht je dit interessant vinden, ga de berekeningen vooral eens voor je eigen situatie maken. Dit hoeft niet direct te betekenen dat je een verandering moet aanbrengen, maar het inzicht alleen is al zoveel waard. Er zijn legio verschillende samenstellingen qua huishoudens en verdiensten en bovenstaand zijn dan ook maar twee voorbeelden om de invloed van ons progressieve belastingstelsel op bruto inkomen te illustreren.
 
