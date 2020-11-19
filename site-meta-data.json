@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "slappewas",
+  "siteUrl": "https://slappewas.cc/",
+  "description": "Slappe Was, controle en inzicht in je persoonlijke financien",
   "home": {
-    "title": "Comfortabel in de Slappe Was",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Comfortabel in persoonlijke financien",
+    "description": "Het hebben van keuzevrijheid is een groot goed, hierin speelt geld een duidelijke rol. Slappewas probeert je te inspireren en minder afhankelijk te laten zijn van de rat-race."
   }
 }
