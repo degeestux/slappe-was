@@ -8,7 +8,7 @@ metaDescription: Dit
 ---
 # Fixed, Future & Fun
 
-In **de 28k sweetspot** schrijf ik over de invloed van ons progressieve belastingstelsel en de marginale druk bij bepaalde verdiensten op ons inkomen. In dit artikel gaan we wat verder in over een andere kijk op je uitgavenpatroon en de hoeveelheid tijd die een bepaalde aankoop je kost. Om dit te doen maken we onderscheid tussen drie type kosten.
+In [de 28k sweetspot](/28k-sweetspot) schrijf ik over de invloed van ons progressieve belastingstelsel en de marginale druk bij bepaalde verdiensten op ons inkomen. In dit artikel gaan we wat verder in over een andere kijk op je uitgavenpatroon en de hoeveelheid tijd die een bepaalde aankoop je kost. Om dit te doen maken we onderscheid tussen drie type kosten.
 
 ## Fixed
 
@@ -47,7 +47,7 @@ De leukste, maar ook minst noodzakelijke categorie waar je indien nodig vrij mak
 - Vakanties
 - Streaming abonnementen
 
-Persoonlijk hanteer en budgetteer ik deze drie categorieën per kalenderjaar en zet dit af tegen de marginale belastingdruk zoals behandeld in **de 28k sweetspot** om een deel van het risico dat ik loop als ZZP-er in te dekken.
+Persoonlijk hanteer en budgetteer ik deze drie categorieën per kalenderjaar en zet dit af tegen de marginale belastingdruk zoals behandeld in [de 28k sweetspot](/28k-sweetspot) om een deel van het risico dat ik loop als ZZP-er in te dekken.
 
 Eén van de risico's die je loopt als ZZP-er is dat je een periode zonder werk komt te zitten. In dat geval wil ik persoonlijk niet in hoeven te teren op eigen vermogen of in financiële problemen komen.
 
@@ -72,7 +72,7 @@ Hoe ik dat doe zal ik proberen te schetsen middels onderstaande tabel waarin de 
 
 ## Fixed
 
-Zoals hierboven zichtbaar dien je 600 uur declarabel te zijn om €28.295 netto te verdienen, om ca. €10.000 meer (in totaal €38.000) over te houden moet je daar 400 uur extra voor werken. Zoals ook besproken in **de 28k sweetspot** moet je na de €28.000 2x zoveel werken voor dezelfde euro in je portemonnee.
+Zoals hierboven zichtbaar dien je 600 uur declarabel te zijn om €28.295 netto te verdienen, om ca. €10.000 meer (in totaal €38.000) over te houden moet je daar 400 uur extra voor werken. Zoals ook besproken in [de 28k sweetspot](/28k-sweetspot) moet je na de €28.000 2x zoveel werken voor dezelfde euro in je portemonnee.
 
 Het risico wat je loopt om met je omzet je jaarlijkse Fixed kosten niet te kunnen dekken bij €28.000 ten opzichte van €38.000 is daarmee een stuk groter. Je moet namelijk 66% meer uren verkopen voor 16% meer kosten, dan is die druk om omzet te blijven genereren toch wat lager in tijden van crisis als je aan €28.000 genoeg hebt.
 
