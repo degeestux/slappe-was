@@ -17,8 +17,7 @@ const ContactPage = ({
       <div className="six-grids -contact">
         <div className="post-thumbnail">
           <h1 className="post-title">Neem contact op</h1>
-          <p>Stuur een berichtje, geef feedback of nodig me uit als spreker.</p>
-          <p>info @ slappewas.cc</p>
+          <p>Binnenkort meer gegevens</p>
         </div>
       </div>
     </Layout>
