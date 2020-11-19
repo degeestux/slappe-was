@@ -416,7 +416,6 @@ table {
   color: #333;
   background: white;
   border: 1px solid grey;
-  font-size: 12pt;
   border-collapse: collapse;
   width: 100%;
   margin-bottom: 20px;
@@ -446,7 +445,6 @@ table td {
 [data-table-theme*=dark] {
   color: #ddd;
   background: #333;
-  font-size: 12pt;
   border-collapse: collapse;
 }
 [data-table-theme*=dark] thead th,
